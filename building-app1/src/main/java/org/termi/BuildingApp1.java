@@ -1,4 +1,4 @@
-package org.termi.app;
+package org.termi;
 
 import org.termi.readers.BuildingReader;
 

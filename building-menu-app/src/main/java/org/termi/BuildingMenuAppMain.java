@@ -1,6 +1,6 @@
 package org.termi;
 
-import org.termi.app.BuildingMenuApp;
+import org.termi.BuildingMenuApp;
 import org.termi.readers.ApartmentReader;
 import org.termi.readers.BuildingReader;
 import org.termi.readers.OwnerReader;
